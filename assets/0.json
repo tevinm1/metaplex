@@ -1,0 +1,58 @@
+{
+  "name": "NugBuddysv.1 #0",
+  "symbol": "NUGBUDDY",
+  "description": "Nugs To Bring Us All Together",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://www.nugbuddys.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White "
+    },
+    {
+      "trait_type": "V1",
+      "value": "V1 "
+    },
+    {
+      "trait_type": "Strain",
+      "value": "Purp "
+    },
+    {
+      "trait_type": "Nation",
+      "value": "US "
+    },
+    {
+      "trait_type": "NugBuddy",
+      "value": "1.1 "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flashing-Teet h"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shooketh "
+    }
+  ],
+  "collection": {
+    "name": "NugBuddys",
+    "family": "Mother Plant Batch"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9uo8UQQaU5GJnBaaG2vTP8opNMgENysut8S2y3mGSG9c",
+        "share": 100
+      }
+    ]
+  }
+}
